@@ -21,11 +21,8 @@ Privacy-friendly and local-first by default.
 
 ### Web stack
 
-Vanilla JavaScript  
-Alpine.js  
-Sass (BEM)  
-Vite  
-Astro  
+Vanilla JavaScript • Alpine.js  
+Sass (BEM) • Vite • Astro  
 Grav CMS (instead of WordPress)
 
 ---
